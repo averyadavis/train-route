@@ -1,7 +1,0 @@
-exercise/GPC/InvalidConfigurationException.class
-exercise/GPC/trains/model/NoSuchRouteException.class
-exercise/GPC/trains/domain/Stops.class
-exercise/GPC/App.class
-exercise/GPC/trains/domain/Dist.class
-exercise/GPC/trains/domain/TrainRoutes.class
-exercise/GPC/trains/model/RouteGraph.class
